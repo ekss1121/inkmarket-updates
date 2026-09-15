@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.4.1",
-  "apkUrl": "https://github.com/ekss1121/inkmarket-updates/releases/download/v1.4.1/app-debug.apk",
-  "changelog": "天气图标尺寸:顶部大图标 110→84dp,小时/七天小图标 40→48dp"
+  "versionCode": 10,
+  "versionName": "1.4.2",
+  "apkUrl": "https://github.com/ekss1121/inkmarket-updates/releases/download/v1.4.2/app-debug.apk",
+  "changelog": "修复天气图标错位:SVG 转 VectorDrawable 时圆形起点 bug,太阳/云错位"
 }
