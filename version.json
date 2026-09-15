@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/ekss1121/inkmarket-updates/releases/download/v1.4.0/app-debug.apk",
-  "changelog": "彩墨屏配色:8 个 SVG 矢量天气图标(彩色);涨跌标签/走势线按涨跌显示绿/红"
+  "versionCode": 9,
+  "versionName": "1.4.1",
+  "apkUrl": "https://github.com/ekss1121/inkmarket-updates/releases/download/v1.4.1/app-debug.apk",
+  "changelog": "天气图标尺寸:顶部大图标 110→84dp,小时/七天小图标 40→48dp"
 }
