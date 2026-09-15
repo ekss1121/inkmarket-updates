@@ -1,0 +1,6 @@
+{
+  "versionCode": 6,
+  "versionName": "1.2.1",
+  "apkUrl": "https://github.com/ekss1121/inkmarket-updates/releases/download/v1.2.1/app-debug.apk",
+  "changelog": "应用内自动更新:启动时自动检查新版本,首页横幅一键下载安装;设置页可手动检查更新"
+}
