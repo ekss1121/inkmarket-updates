@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.4.2",
-  "apkUrl": "https://github.com/ekss1121/inkmarket-updates/releases/download/v1.4.2/app-debug.apk",
-  "changelog": "修复天气图标错位:SVG 转 VectorDrawable 时圆形起点 bug,太阳/云错位"
+  "versionCode": 11,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/ekss1121/inkmarket-updates/releases/download/v1.5.0/app-debug.apk",
+  "changelog": "仪表盘风格首页：Bento 卡片布局（天气/市场/24小时/未来7天/自选），浅色墨水屏优化"
 }
